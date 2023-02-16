@@ -1,0 +1,7 @@
+bin/
+.checkstyle
+.classpath
+.project
+.settings/
+fish1.png
+fish2.png
